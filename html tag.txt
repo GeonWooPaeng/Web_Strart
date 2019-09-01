@@ -1,0 +1,46 @@
+html 태그 - https://pridiot.tistory.com/6 
+info.cern.ch - 웹의 시작점
+
+<strong> - 진하게 표시
+<u> - 밑줄
+<h1~6> - 제목 태그 
+<img src="" width=""> - 이미지 삽입
+<br> - 줄바꿈
+<ul> - 목차/모록 부모태그
+<li> - 목차/목록 자식태그
+<ol> - 목차 숫자 태그
+<title> - 제목(홈페이지 전체)
+<meta charset="utf-8"> - 이 웹페이지를 utf-8로 열어라
+<body> - 본문 묶는 태그
+<head> - 본문 설명 하는 태그
+<html> - 전체를 감싸는 태그
+<!doctype html> - 이 문서는 html 이다.
+<a href="링크주소"> - 링크
+<a href="링크주소" target="-blank"> - 링크 새 탭으로 생성
+<a href="링크주소" title="html5"> - 링크 툴 팁 제작(마우스 가져다 댔을 때)
+
+github로 사람들에게 웹사이트 공유하는 법
+html 제작소 -> setting -> github pages -> Source의 master branch선택 -> 안되면 뒤에 index.html같이 입력해주기
+
+웹 서버 무료서비스 찾는법
+free static web hosting 검색
+
+https://edu.goorm.io/learn/lecture/4543/%EA%B5%AC%EB%A6%84ide%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B4%88%EA%B3%A0%EC%86%8D%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%9D%B8-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/lesson/199070/1%EA%B0%95-%EA%B5%AC%EB%A6%84ide-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0
+강의 듣기
+
+
+<iframe src="동영상소스"> - 동영상 삽입 
+유튜브 -> 소스카피 ,Embed video -> 자신 코드에 삽입
+
+ - 댓글 기능 추가
+사이트 - livere, disqus
+localhost - 자기자신의 컴퓨터 
+localhost1.html
+
+-채팅 서비스 추가
+사이트 - www.tawk.to
+로그인 -> 톱니바퀴모양 -> widget Code 가져오기
+
+-방문자 분석기
+사이트 - analytics.google.com
+로그인 -> 페이지 만들기 -> tracking info -> tracking code 에서 코드 따오기 
